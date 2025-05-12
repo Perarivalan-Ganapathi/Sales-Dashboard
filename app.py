@@ -110,7 +110,7 @@ st.download_button(
     file_name='Filtered_Sales_CSV',
     mime='text/csv')
 
-
-
+# Call footer
+footer()
 
 
