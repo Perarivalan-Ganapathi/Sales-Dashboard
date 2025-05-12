@@ -29,7 +29,7 @@ def footer():
         }
         </style>
         <div class="footer">
-            <p>Developed by Aju | 💼 Data Analyst | 📧 <a href="mailto:aju@example.com" style="color: #f0f0f0;">aju@example.com</a> | 🌐 <a href="https://www.linkedin.com/in/aju" style="color: #f0f0f0;">LinkedIn</a></p>
+            <p>Developed by Perarivalan Ganapathi |  📧 <a href="mailto:perarivalang164@gmail.com" style="color: #f0f0f0;">perarivalang164@gmail.com</a> | 🌐 <a href="https://www.linkedin.com/in/perarivalan-ganapathi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsWYYgbyUSQ6l63dAYGMEmQ%3D%3D" style="color: #f0f0f0;">LinkedIn</a></p>
         </div>
         """,
         unsafe_allow_html=True
