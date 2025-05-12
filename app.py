@@ -7,7 +7,7 @@ import seaborn as sns
 import plotly.express as px
 from datetime import datetime #, timedelta - if required
 
-d=pd.read_csv("sales1.csv")
+d=pd.read_csv("Mini Project/sales1.csv")
 
 # Data cleaning, transforming and manipulation
 d['Quantity']=d.groupby('Product')['Product'].transform('count')
