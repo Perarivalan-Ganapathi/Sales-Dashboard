@@ -7,6 +7,34 @@ import seaborn as sns
 import plotly.express as px
 from datetime import datetime #, timedelta - if required
 
+# Page Configuration
+st.set_page_config(page_title="Sales Dashboard", page_icon="📊", layout="wide")
+
+# Footer function
+def footer():
+    st.markdown(
+        """
+        <style>
+        .footer {
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            background-color: #111;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            font-size: 14px;
+            border-top: 1px solid #333;
+        }
+        </style>
+        <div class="footer">
+            <p>Developed by Aju | 💼 Data Analyst | 📧 <a href="mailto:aju@example.com" style="color: #f0f0f0;">aju@example.com</a> | 🌐 <a href="https://www.linkedin.com/in/aju" style="color: #f0f0f0;">LinkedIn</a></p>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+
 # import dataset
 d=pd.read_csv("sales1.csv")
 
