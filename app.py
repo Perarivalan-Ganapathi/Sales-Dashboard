@@ -7,10 +7,6 @@ import seaborn as sns
 import plotly.express as px
 from datetime import datetime #, timedelta - if required
 
-
-# Page Configuration
-st.set_page_config(page_title="Sales Dashboard", page_icon="📊", layout="wide")
-
 # import dataset
 d=pd.read_csv("sales1.csv")
 
