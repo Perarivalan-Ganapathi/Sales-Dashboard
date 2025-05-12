@@ -1,0 +1,22 @@
+Cust_id,Product,Prod_id,Status,Price,PayMode,City,Date
+200202,Pencil,234,Yes,62,Credit Card,Selam,2024-04-06
+200203,Ink,205,Yes,33,UPI,Theni,2024-06-10
+200204,Note,238,Yes,43,Credit Card,Theni,2024-05-20
+200205,Pencil,234,Yes,62,UPI,Selam,2024-05-22
+200206,Note,238,Yes,43,Credit Card,Thirunelveli,2024-05-10
+200207,Note,238,Yes,43,Cash,Thirunelveli,2024-06-17
+200208,Pencil,234,No,62,UPI,Thanjai,2024-05-13
+200209,Note,238,Yes,43,Credit Card,Erode,2024-06-02
+200210,Note,238,Yes,43,Cash,Theni,2024-05-31
+200211,Ink,205,Yes,33,Credit Card,Madurai,2024-05-03
+200212,Pencil,234,Yes,62,Cash,Thanjai,2024-05-21
+200213,Pencil,234,Yes,62,Cash,Thanjai,2024-05-27
+200214,Colors,215,No,77,UPI,Thiruchy,2024-04-21
+200215,Sharpners,211,Yes,47,Credit Card,Madurai,2024-06-12
+200216,Ink,205,Yes,33,Cash,Madurai,2024-06-30
+200217,Sharpners,211,Yes,47,UPI,Theni,2024-06-01
+200218,Note,238,No,43,Credit Card,Thiruchy,2024-07-31
+200219,Sharpners,211,Yes,47,Credit Card,Erode,2024-08-01
+200220,Pencil,234,Yes,62,Credit Card,Thirunelveli,2024-06-12
+200221,Colors,215,Yes,77,Credit Card,Theni,2024-06-27
+200222,Note,238,Yes,43,Cash,Thanjai,2024-05-14
